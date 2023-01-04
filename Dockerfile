@@ -1,7 +1,7 @@
 FROM alpine:edge
 
-ARG AUUID="b1575837-aa4c-450b-9b65-fa2a86a32c6c"
-ARG CADDYIndexPage="https://github.com/tailwindtoolbox/Landing-Page/archive/master.zip"
+ARG AUUID="7136288a-3171-48dd-8f84-0c010e5d7e9c"
+ARG CADDYIndexPage="https://github.com/AYJCSGM/mikutap/archive/master.zip"
 ARG ParameterSSENCYPT="chacha20-ietf-poly1305"
 ARG PORT=8080
 
